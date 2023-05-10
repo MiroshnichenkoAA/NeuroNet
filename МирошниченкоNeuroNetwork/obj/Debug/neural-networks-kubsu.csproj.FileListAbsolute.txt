@@ -1,0 +1,50 @@
+C:\Users\user\Desktop\Digit-recognizer2-main\Digit-recognizer2-main\bin\Debug\neural_networks_kubsu.exe.config
+C:\Users\user\Desktop\Digit-recognizer2-main\Digit-recognizer2-main\bin\Debug\neural_networks_kubsu.exe
+C:\Users\user\Desktop\Digit-recognizer2-main\Digit-recognizer2-main\bin\Debug\neural_networks_kubsu.pdb
+C:\Users\user\Desktop\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural-networks-kubsu.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural_networks_kubsu.FormMain.resources
+C:\Users\user\Desktop\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural_networks_kubsu.Properties.Resources.resources
+C:\Users\user\Desktop\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural-networks-kubsu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural-networks-kubsu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural_networks_kubsu.exe
+C:\Users\user\Desktop\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural_networks_kubsu.pdb
+C:\Users\user\Downloads\1\Digit-recognizer2-main\Digit-recognizer2-main\bin\Debug\neural_networks_kubsu.exe.config
+C:\Users\user\Downloads\1\Digit-recognizer2-main\Digit-recognizer2-main\bin\Debug\neural_networks_kubsu.exe
+C:\Users\user\Downloads\1\Digit-recognizer2-main\Digit-recognizer2-main\bin\Debug\neural_networks_kubsu.pdb
+C:\Users\user\Downloads\1\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural-networks-kubsu.csprojAssemblyReference.cache
+C:\Users\user\Downloads\1\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural_networks_kubsu.FormMain.resources
+C:\Users\user\Downloads\1\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural_networks_kubsu.Properties.Resources.resources
+C:\Users\user\Downloads\1\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural-networks-kubsu.csproj.GenerateResource.cache
+C:\Users\user\Downloads\1\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural-networks-kubsu.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\1\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural_networks_kubsu.exe
+C:\Users\user\Downloads\1\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural_networks_kubsu.pdb
+C:\Users\79604\Desktop\Распознавание Прокопенко, Какурин 35.2\Digit-recognizer2-main\Digit-recognizer2-main\bin\Debug\neural_networks_kubsu.exe.config
+C:\Users\79604\Desktop\Распознавание Прокопенко, Какурин 35.2\Digit-recognizer2-main\Digit-recognizer2-main\bin\Debug\neural_networks_kubsu.exe
+C:\Users\79604\Desktop\Распознавание Прокопенко, Какурин 35.2\Digit-recognizer2-main\Digit-recognizer2-main\bin\Debug\neural_networks_kubsu.pdb
+C:\Users\79604\Desktop\Распознавание Прокопенко, Какурин 35.2\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural-networks-kubsu.csprojAssemblyReference.cache
+C:\Users\79604\Desktop\Распознавание Прокопенко, Какурин 35.2\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural_networks_kubsu.FormMain.resources
+C:\Users\79604\Desktop\Распознавание Прокопенко, Какурин 35.2\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural_networks_kubsu.Properties.Resources.resources
+C:\Users\79604\Desktop\Распознавание Прокопенко, Какурин 35.2\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural-networks-kubsu.csproj.GenerateResource.cache
+C:\Users\79604\Desktop\Распознавание Прокопенко, Какурин 35.2\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural-networks-kubsu.csproj.CoreCompileInputs.cache
+C:\Users\79604\Desktop\Распознавание Прокопенко, Какурин 35.2\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural_networks_kubsu.exe
+C:\Users\79604\Desktop\Распознавание Прокопенко, Какурин 35.2\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural_networks_kubsu.pdb
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\Digit-recognizer2-main\bin\Debug\neural_networks_kubsu.exe.config
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\Digit-recognizer2-main\bin\Debug\neural_networks_kubsu.exe
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\Digit-recognizer2-main\bin\Debug\neural_networks_kubsu.pdb
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural-networks-kubsu.csproj.AssemblyReference.cache
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural_networks_kubsu.FormMain.resources
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural_networks_kubsu.Properties.Resources.resources
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural-networks-kubsu.csproj.GenerateResource.cache
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural-networks-kubsu.csproj.CoreCompileInputs.cache
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural_networks_kubsu.exe
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\Digit-recognizer2-main\obj\Debug\neural_networks_kubsu.pdb
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\МирошниченкоNeuroNetwork\bin\Debug\neural_networks_kubsu.exe.config
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\МирошниченкоNeuroNetwork\bin\Debug\neural_networks_kubsu.exe
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\МирошниченкоNeuroNetwork\bin\Debug\neural_networks_kubsu.pdb
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\МирошниченкоNeuroNetwork\obj\Debug\neural-networks-kubsu.csproj.AssemblyReference.cache
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\МирошниченкоNeuroNetwork\obj\Debug\neural_networks_kubsu.Properties.Resources.resources
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\МирошниченкоNeuroNetwork\obj\Debug\neural-networks-kubsu.csproj.GenerateResource.cache
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\МирошниченкоNeuroNetwork\obj\Debug\neural-networks-kubsu.csproj.CoreCompileInputs.cache
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\МирошниченкоNeuroNetwork\obj\Debug\neural_networks_kubsu.exe
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\МирошниченкоNeuroNetwork\obj\Debug\neural_networks_kubsu.pdb
+C:\Users\moonb\Downloads\Telegram Desktop\83ca18b760f2daca (2)\Кузьменко. Титова\Digit-recognizer2-main\МирошниченкоNeuroNetwork\obj\Debug\Miroshnichenko.FormMain.resources
